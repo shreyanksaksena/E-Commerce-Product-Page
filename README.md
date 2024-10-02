@@ -1,5 +1,5 @@
 # E-Commerce-Product-Page
 
-# /images/images.png
 
-![alt text]()
+
+![alt text](/images/images.png)
